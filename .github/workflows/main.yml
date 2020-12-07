@@ -1,4 +1,4 @@
-name: Deploy Nonsense Generator Function Workflower
+name: Deploy Nonsense Generator Function Workflower2
 
 on:
   push:
