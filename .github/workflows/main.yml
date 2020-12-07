@@ -1,4 +1,4 @@
-name: Deploy Nonsense Generator Function
+name: Deploy Nonsense Generator Function Workflow
 
 on:
   push:
